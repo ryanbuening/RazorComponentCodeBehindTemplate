@@ -9,7 +9,8 @@
 		<SortOrder>10</SortOrder>
 		<RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
 		<NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
-		<DefaultName>Razor</DefaultName>
+		<DefaultName>RazorComponent</DefaultName>
+		<ProvideDefaultName>true</ProvideDefaultName>
 	</TemplateData>
 	<TemplateContent>
 		<ProjectItem SubType="" TargetFileName="$fileinputname$.razor" ReplaceParameters="true">razor.razor</ProjectItem>
